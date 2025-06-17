@@ -1,0 +1,11 @@
+C:\Users\jenje\source\repos\NumberDetector\DefinerAi\bin\Debug\net8.0\DefinerAi.deps.json
+C:\Users\jenje\source\repos\NumberDetector\DefinerAi\bin\Debug\net8.0\DefinerAi.dll
+C:\Users\jenje\source\repos\NumberDetector\DefinerAi\bin\Debug\net8.0\DefinerAi.pdb
+C:\Users\jenje\source\repos\NumberDetector\DefinerAi\obj\Debug\net8.0\DefinerAi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenje\source\repos\NumberDetector\DefinerAi\obj\Debug\net8.0\DefinerAi.AssemblyInfoInputs.cache
+C:\Users\jenje\source\repos\NumberDetector\DefinerAi\obj\Debug\net8.0\DefinerAi.AssemblyInfo.cs
+C:\Users\jenje\source\repos\NumberDetector\DefinerAi\obj\Debug\net8.0\DefinerAi.csproj.CoreCompileInputs.cache
+C:\Users\jenje\source\repos\NumberDetector\DefinerAi\obj\Debug\net8.0\DefinerAi.dll
+C:\Users\jenje\source\repos\NumberDetector\DefinerAi\obj\Debug\net8.0\refint\DefinerAi.dll
+C:\Users\jenje\source\repos\NumberDetector\DefinerAi\obj\Debug\net8.0\DefinerAi.pdb
+C:\Users\jenje\source\repos\NumberDetector\DefinerAi\obj\Debug\net8.0\ref\DefinerAi.dll

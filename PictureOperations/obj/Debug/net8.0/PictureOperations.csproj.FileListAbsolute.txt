@@ -1,0 +1,12 @@
+C:\Users\jenje\source\repos\NumberDetector\PictureOperations\bin\Debug\net8.0\PictureOperations.deps.json
+C:\Users\jenje\source\repos\NumberDetector\PictureOperations\bin\Debug\net8.0\PictureOperations.dll
+C:\Users\jenje\source\repos\NumberDetector\PictureOperations\bin\Debug\net8.0\PictureOperations.pdb
+C:\Users\jenje\source\repos\NumberDetector\PictureOperations\obj\Debug\net8.0\PictureOperations.csproj.AssemblyReference.cache
+C:\Users\jenje\source\repos\NumberDetector\PictureOperations\obj\Debug\net8.0\PictureOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenje\source\repos\NumberDetector\PictureOperations\obj\Debug\net8.0\PictureOperations.AssemblyInfoInputs.cache
+C:\Users\jenje\source\repos\NumberDetector\PictureOperations\obj\Debug\net8.0\PictureOperations.AssemblyInfo.cs
+C:\Users\jenje\source\repos\NumberDetector\PictureOperations\obj\Debug\net8.0\PictureOperations.csproj.CoreCompileInputs.cache
+C:\Users\jenje\source\repos\NumberDetector\PictureOperations\obj\Debug\net8.0\PictureOperations.dll
+C:\Users\jenje\source\repos\NumberDetector\PictureOperations\obj\Debug\net8.0\refint\PictureOperations.dll
+C:\Users\jenje\source\repos\NumberDetector\PictureOperations\obj\Debug\net8.0\PictureOperations.pdb
+C:\Users\jenje\source\repos\NumberDetector\PictureOperations\obj\Debug\net8.0\ref\PictureOperations.dll
