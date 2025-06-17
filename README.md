@@ -35,10 +35,10 @@ This is a desktop application built with **C# and Windows Forms**, featuring a *
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/suchhzz/NumberPredictor.git
 ```
 
-2.Open the .sln file in Visual Studio 2022 or later.
+2. Open the .sln file in Visual Studio 2022 or later.
 
 3. Build and run the project:
 
