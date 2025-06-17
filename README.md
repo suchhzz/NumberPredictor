@@ -25,7 +25,7 @@ This is a desktop application built with **C# and Windows Forms**, featuring a *
 
 ## Screenshots
 
-| Drawing Interface | Prediction View | Output Example |
+| 4 digit | 7 digit | 1 digit |
 |------------------|------------------|----------------|
 | ![](examples/4e4b4fac-dbde-4e3d-a1a1-a4927c1ad3f0.jpeg) | ![](examples/8d957b90-a587-43dd-b67b-b3296d52d784.jpeg) | ![](examples/30b5debd-9019-4e7f-905f-fbfe2debc78d.jpeg) |
 
@@ -34,8 +34,8 @@ This is a desktop application built with **C# and Windows Forms**, featuring a *
 ## How to Run
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
+```bash
+git clone https://github.com/your-username/your-repo.git
 ```
 
 2.Open the .sln file in Visual Studio 2022 or later.
